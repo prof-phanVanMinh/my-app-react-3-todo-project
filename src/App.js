@@ -4,7 +4,6 @@ import TaskForm from "./component/TaskForm";
 import Search_Sort from "./component/Search_Sort";
 import TaskList from "./component/TaskList";
 import demo from "./training/demo";
-/*first commit*/
 class App extends Component {
     constructor(props) {
         super(props);
