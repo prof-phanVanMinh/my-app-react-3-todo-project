@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.mr-5{
+  margin-right: 5px;
+}
+.mt-50{
+  margin-top: 50px;
+}
+.ml-1{
+  margin-left: 1px;
+}
+.pr-5{
+  padding-right: 5px;
+}
+.right{
+  float: right;
+}
+.font-arial{
+  font-family: Serif;
+  color: darkgreen;
+}
+.mt-20{
+  margin-top: 20px;
+}
+.cursor{
+  cursor: pointer;
+}
+.sort-selected::after{
+  content: '\f00c';
+  font-family: FontAwesome, serif;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 0 10px;
+  display: inline-block;
+}
